@@ -1,3 +1,2 @@
-stremlit
+streamlit
 pandas 
-zakhat.png
